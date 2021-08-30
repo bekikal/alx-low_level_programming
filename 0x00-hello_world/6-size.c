@@ -11,11 +11,11 @@ int main(void)
 	char charType;
 	long int lType;
 
-	ptintf("Size of a char: %zu bytes (s\n)", Sizeof(charType));
-	ptintf("Size of a int: %zu bytes (s\n)", Sizeof(intType));
-        ptintf("Size of a long int: %zu bytes (s\n)", Sizeof(lType));
-        ptintf("Size of a long long int: %zu bytes (s\n)", Sizeof(llType));
-	ptintf("Size of a float: %zu bytes (s\n)", Sizeof(floatType));
+	printf("Size of a char: %zu bytes (s\n)", Sizeof(charType));
+	printf("Size of a int: %zu bytes (s\n)", Sizeof(intType));
+        printf("Size of a long int: %zu bytes (s\n)", Sizeof(lType));
+        printf("Size of a long long int: %zu bytes (s\n)", Sizeof(llType));
+	printf("Size of a float: %zu bytes (s\n)", Sizeof(floatType));
 	
         return (0);
 }
