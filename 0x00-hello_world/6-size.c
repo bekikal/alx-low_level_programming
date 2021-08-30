@@ -11,7 +11,7 @@ int main(void)
 	char charType;
 	long int lType;
 
-	ptintf("Size of a char: %zu bytes (s\n)", Sizeof(charTyp));
+	ptintf("Size of a char: %zu bytes (s\n)", Sizeof(charType));
 	ptintf("Size of a int: %zu bytes (s\n)", Sizeof(intType));
         ptintf("Size of a long int: %zu bytes (s\n)", Sizeof(lType));
         ptintf("Size of a long long int: %zu bytes (s\n)", Sizeof(llType));
