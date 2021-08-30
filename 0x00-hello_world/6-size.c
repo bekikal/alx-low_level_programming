@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *ksjdkfjlkjia
- *Return: Always 0 (Success)
- */
+*main is the entry point 
+*Return: Always 0 (Success)
+*/
 int main(void)
 {
 	int intType;
@@ -10,6 +10,7 @@ int main(void)
 	long long int llType;
 	char charType;
 	long int lType;
+	
 	printf("Size of a char: %zu byte(s)\n", sizeof(charType));
 	printf("Size of an int: %zu byte(s)\n", sizeof(intType));
         printf("Size of a long int: %zu byte(s)\n", sizeof(lType));
