@@ -4,9 +4,9 @@
  *Return: Aleays 0 (Success)
  */
 
-intg main(void)
+int main(void)
 {
-	fprintf(stderr,"and that piece of art is useful" - Dora Korpar, 2015-10        -19\n);
+	fprintf(stderr,"and that piece of art is useful\n" - Dora Korpar, 2015-        10-19);
 
 	return (0);
 }
