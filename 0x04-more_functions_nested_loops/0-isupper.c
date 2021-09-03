@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *-isupper - checks upper or lower.
+ *_isupper - checks upper or lower.
  *@c: the character to be checked.
  *
  *Return: returns 1 if' c'is upper cause if not returns 0.
