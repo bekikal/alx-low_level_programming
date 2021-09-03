@@ -2,11 +2,11 @@
 
 /**
  *0-isupper.c: checks upper or lower.
- *Return:  _isupper(c) returns 1 if' c'is upper cause if not returns 0.
+ *Return:  _isupper(y) returns 1 if' y'is upper cause if not returns 0.
  */
-int _isupper(int c)
+int _isupper(int y)
 {
-	 if (c >= 65 && c <= 90)
+	 if (y >= 65 && y <= 90)
 	{
 		return (1);
 	}
