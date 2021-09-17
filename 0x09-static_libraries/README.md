@@ -1,0 +1,1 @@
+this is all abou static libraries'
