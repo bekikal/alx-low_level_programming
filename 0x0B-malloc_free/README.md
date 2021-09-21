@@ -1,0 +1,1 @@
+This project is all about automtic and dynamic allocations, malloc and free,
